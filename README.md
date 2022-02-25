@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Skin Cancer Identifier](https://github.com/andesjr/skin_disease_id)
 
-- 🌱 I’m currently learning **Advanced SQL and Tableau**
+- 🌱 I’m currently learning **Advanced SQL Techniques and Tableau**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/Jeffrey-Andes-Data-Science-e83d94418b9d41e08f2229d78e4a7cd2](https://www.notion.so/Jeffrey-Andes-Data-Science-e83d94418b9d41e08f2229d78e4a7cd2)
 
